@@ -5,13 +5,13 @@ Requirement
 
 ตัวอย่างข้อมูล นามบัตรทั่วไป
 
-ชื่อ ภาษาไทย 
+ชื่อ ภาษาไทย ไพบูลย์ ยืนยง
 
-ชื่อ ภาษาอังกฤษ
+ชื่อ ภาษาอังกฤษ Paiboon Yuenyong
 
-ตำแหน่ง
+ตำแหน่ง Business Developemnt Manager
 
-แผนก
+แผนก Enterprise Solution
 
 เบอร์ มือถือ HP : +66 8 6412 6585
 
