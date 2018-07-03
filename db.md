@@ -25,12 +25,7 @@
      "LoginMethod":"UserId",
      "UserName": "Paiboo1",
      "Password": "5b3b28e401e0d3df00c4f3e6",
-     "WorkLocation":
-                    {
-                        "Latitude": 13.12024,
-                        "Longitude": 100.12344
-                    },
-    "Contacts": {
+     "Contacts": {
                     "Phone": ["02-7654321"],
                     "Mobile": ["0864126585"],
                     "Email": 
