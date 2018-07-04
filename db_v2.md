@@ -4,7 +4,7 @@
   * เพิ่มฟิลด์ CardStatus เพื่อบอกสถานะ public หรือ private ในส่วน CardList //toto
   
   
-# Issue
+# Todo/Issue
    * เปลี่ยนชื่อ field Contacts และ Contact List เพื่อให้สื่อความหมายที่เข้าใจง่าย //toto
    * ออกแบบ collection สำหรับเก็บข้อมูล business type ในรูปแบบของ master //kelly
    * ดูเรื่องของการตั้งชื่อฟิลด์ที่สื่อความหมาย //kelly
