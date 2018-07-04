@@ -7,11 +7,15 @@
 # Issue
    * เปลี่ยนชื่อ field Contacts และ Contact List เพื่อให้สื่อความหมายที่เข้าใจง่าย //toto
    * ออกแบบ collection สำหรับเก็บข้อมูล business type ในรูปแบบของ master //kelly
+   * ดูเรื่องของการตั้งชื่อฟิลด์ที่สื่อความหมาย //kelly
+   * ดูเรื่องการเข้าถึงข้อมูลและการอัพเดทข้อมูลที่ง่าย //kelly
+   * ดูเรื่องความรวดเร็วในการค้นหาข้อมูล //kelly
+   
    
 
 Document Structure
 
-////
+```json
 [
     {
      "AccountId": 1,         
@@ -147,3 +151,5 @@ Document Structure
                     ]
     }
 ]
+
+```
