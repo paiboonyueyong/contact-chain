@@ -2,6 +2,7 @@
   * เพิ่มฟิลด์ Buniness Type, Company ในส่วน Working //nancy
   * เก็บฟิลด์ Working, Residence เป็น array //toto 
   * เพิ่มฟิลด์ CardStatus เพื่อบอกสถานะ public หรือ private ในส่วน CardList //toto
+  * เพิ่มฟิลด์ Profile เก็บรายละเอียด Image,Status,Description,UpdateDTM //kelly and riya
   
   
 # Todo/Issue
@@ -52,6 +53,12 @@ Document Structure
      "University": ["สงขลานครินทร์"],
      "Skill": ["React","Nodejs","MongoDB"],
      "WebSite": "http://www.simple.com",
+     "Profile": {
+                    "Image":"asxcnrhvxe.png",
+                    "Status":"การเดินทางคือการเรียนรู้",
+                    "Description": "Life is easy. Why do we make it so hard.",
+                    "UpdateDTM":"4/7/2561 21:57:23"
+                },
      "LoginMethod":"UserId",
      "UserName": "Paiboo1",
      "Password": "5b3b28e401e0d3df00c4f3e6",
