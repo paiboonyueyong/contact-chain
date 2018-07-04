@@ -9,7 +9,7 @@
   * เปลี่ยนฟิลด์ Logo ในส่วนของ Card เป็น Image สำหรับเก็บข้อมูลหลายๆรูป 
   
     ```json 
-        "Image":{
+        "Image": {
                       "Logo": "asxcnrhv.png",
                       "Other": ["asxcnrhv1.png","asxcnrhv2.png","asxcnrhv3.png"]
                  }
