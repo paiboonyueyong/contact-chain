@@ -151,7 +151,6 @@ Document Structure
                                          "Building" : {
                                                         "Name": "AA Tower",
                                                         "Floor": "21",
-                                                        "RoomNo": "80/399"
                                                       },
                                          "AddressNo": "123/35",
                                          "Soi": "Sukumvit 21",
@@ -162,7 +161,10 @@ Document Structure
                                          "Postcode": "10100"
                                         },
                             "TaxId": "123456789012",
-                            "Logo":"asxcnrhv.png",
+                            "Image":{
+                                        "Logo": "asxcnrhv.png",
+                                        "Other": ["asxcnrhv1.png","asxcnrhv2.png","asxcnrhv3.png"]
+                                    },
                             "CardPattern": "2",
                             "CardStatus": "private"
                             
