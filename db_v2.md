@@ -6,6 +6,13 @@
   * เพิ่มฟิลด์ CardStatus เพื่อบอกสถานะ public หรือ private ในส่วน CardList //toto
   * เพิ่มฟิลด์ Profile เก็บรายละเอียด Image,Status,Description,UpdateDTM //kelly and riya
   * เอาฟิลด์ RoomNo ในส่วนของ Card ออก (Address.Building.RoomNo) //kelly
+  * เปลี่ยนฟิลด์ Logo ในส่วนของ Card เป็น Image สำหรับเก็บข้อมูลหลายๆรูป 
+  
+    ```json "Image":{
+                      "Logo": "asxcnrhv.png",
+                      "Other": ["asxcnrhv1.png","asxcnrhv2.png","asxcnrhv3.png"]
+                 }
+    ```
   
 # Todo/Issue
    * เปลี่ยนชื่อ field Contacts และ Contact List เพื่อให้สื่อความหมายที่เข้าใจง่าย //toto
